@@ -18,7 +18,7 @@
 ---
 
 [Receipt ML]
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/receipt_ml.png?raw=true"/>
 
 ---
 
