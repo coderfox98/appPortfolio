@@ -4,7 +4,7 @@
 
 ### iOS Apps
 
-[Project 1 Title](/sample_page)
+[Nohay Writeups](https://itunes.apple.com/in/app/nohay-writeups/id1446049674?mt=8)
 <img src="images/test.png?raw=true"/>
 
 ---
