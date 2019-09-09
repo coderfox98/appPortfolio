@@ -12,12 +12,12 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Home Visitors](http://example.com/)
+[Home Visitors](https://apps.apple.com/in/app/homevisitors/id1458984379)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-[Receipt ML]
+Receipt ML
 <img src="images/receipt_ml.png?raw=true"/>
 
 ---
