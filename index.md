@@ -35,4 +35,3 @@ Receipt ML
 - [Your Diary](https://github.com/coderfox98/YourDiary)
 
 ---
-
