@@ -5,10 +5,10 @@
 ### iOS Apps
 
 [Nohay Writeups](https://itunes.apple.com/in/app/nohay-writeups/id1446049674?mt=8)
-<img src="images/test.png?raw=true"/>
+<img src="images/nohay_writeups.png?raw=true"/>
 
 ---
-[Pods](/pdf/sample_presentation.pdf)
+[Pods](https://apps.apple.com/in/app/pods-app/id1476801929)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
