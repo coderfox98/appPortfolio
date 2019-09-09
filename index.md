@@ -13,7 +13,7 @@
 
 ---
 [Home Visitors](https://apps.apple.com/in/app/homevisitors/id1458984379)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/home_visitors.png?raw=true"/>
 
 ---
 
