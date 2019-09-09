@@ -17,7 +17,7 @@
 
 ---
 
-[Receipt ML]()
+[Receipt ML]
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
