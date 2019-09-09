@@ -9,7 +9,7 @@
 
 ---
 [Pods](https://apps.apple.com/in/app/pods-app/id1476801929)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/pods.png?raw=true"/>
 
 ---
 [Home Visitors](https://apps.apple.com/in/app/homevisitors/id1458984379)
@@ -24,11 +24,11 @@ Receipt ML
 
 ### Android Apps
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Nohay Writeups](https://play.google.com/store/apps/details?id=com.writeupsnohay.nohaywriteups)
+- [BookStore](https://github.com/coderfox98/BookStore)
+- [Maps Api](https://github.com/coderfox98/MapsApi)
+- [Music Player](https://github.com/coderfox98/Music-Player)
+- [Your Diary](https://github.com/coderfox98/YourDiary)
 
 ---
 
