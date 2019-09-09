@@ -15,13 +15,13 @@
 
 ---
 [Home Visitors](https://apps.apple.com/in/app/homevisitors/id1458984379)
-<br>
+<br><br>
 <img src="images/home_visitors.png?raw=true"/>
 
 ---
 
 Receipt ML
-<br>
+<br><br>
 <img src="images/receipt_ml.png"/>
 
 ---
