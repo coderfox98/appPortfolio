@@ -22,7 +22,7 @@ Receipt ML
 
 ---
 
-### Category Name 2
+### Android Apps
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
